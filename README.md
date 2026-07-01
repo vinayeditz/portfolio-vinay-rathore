@@ -1,5 +1,5 @@
-## portfolio-vinay-rathore
-##its a demo portfolio website
+## Portfolio-Vinay-Rathore
+Its a demo portfolio website
 
 # 💼 Personal Portfolio Website
 
@@ -128,7 +128,7 @@ in your browser.
 https://linkedin.com/in/your-profile
 
 🐙 GitHub:
-https://github.com/your-username
+[https://github.com/your-username](https://github.com/vinayeditz)
 
 ---
 
